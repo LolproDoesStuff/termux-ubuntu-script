@@ -5,5 +5,5 @@ cd ubuntu-in-termux
 chmod +x ubuntu.sh
 ./ubuntu.sh -y
 echo Done!
-cd ..
+cd ~
 rm install-ubuntu.sh
