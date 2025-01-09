@@ -17,5 +17,5 @@ cd ~ && pkg update && pkg upgrade -y && pkg install wget && wget https://raw.git
 3. Makes the installer executable and installs it.
 4. Removes the initial script
 
-# Why have you done this
+# Why have you done this?
 Idk, just for fun.
