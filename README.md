@@ -2,7 +2,7 @@
 Small little script that installs Ubuntu in your Termux Teminal. Based on [MFDGaming's ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux) repo.
 # Command to run
 ```bash
-pkg update && pkg upgrade -y && pkg install wget && wget https://raw.githubusercontent.com/LolproDoesStuff/termux-ubuntu-script/refs/heads/main/install-ubuntu.sh && chmod +x install-ubuntu.sh && ./install-ubuntu.sh
+cd ~ && pkg update && pkg upgrade -y && pkg install wget && wget https://raw.githubusercontent.com/LolproDoesStuff/termux-ubuntu-script/refs/heads/main/install-ubuntu.sh && chmod +x install-ubuntu.sh && ./install-ubuntu.sh
 ```
 # What does it do
 - The command to run:
