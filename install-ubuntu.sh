@@ -7,5 +7,4 @@ chmod +x ubuntu.sh
 cd ~
 rm install-ubuntu.sh
 clear
-cd ubuntu-in-termux
 echo Done! Run "./startubuntu.sh" to start Ubuntu! 
