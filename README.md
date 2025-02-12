@@ -7,9 +7,9 @@ cd ~ && pkg update && pkg upgrade -y && pkg install wget && wget https://raw.git
 # What does it do
 - The command to run:
 
-1. Update all packages
-2. Download [install-ubuntu.sh](https://raw.githubusercontent.com/LolproDoesStuff/termux-ubuntu-script/refs/heads/main/install-ubuntu.sh)
-3. Make the script executable and run it
+1. Updates all packages
+2. Downloads [install-ubuntu.sh](https://raw.githubusercontent.com/LolproDoesStuff/termux-ubuntu-script/refs/heads/main/install-ubuntu.sh)
+3. Makes the script executable and runs it
 
 - The actual script
 1. Downloads the required packages (git & proot)
