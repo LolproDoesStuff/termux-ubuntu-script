@@ -14,8 +14,9 @@ cd ~ && pkg update && pkg upgrade -y && pkg install wget -y && wget https://raw.
 - The actual script
 1. Downloads the required packages (git & proot)
 2. Clones [MFDGaming's repo](https://github.com/MFDGaming/ubuntu-in-termux)
-3. Makes the installer executable and installs it.
-4. Removes the initial script
+3. Reverts the ubuntu version to 22.04 because 24.10 dosen't work
+4. Makes the installer executable and installs it.
+5. Removes the initial script
 
 # Why have you done this?
 Idk, just for fun.
